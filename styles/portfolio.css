@@ -194,4 +194,5 @@ footer input[type="text"], footer input[type="email"], footer textarea{
     display: block;
     padding: 10px 20px ;
     margin-bottom: 24px;
+    border: none;
 }
